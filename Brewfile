@@ -30,5 +30,8 @@ brew "git"
 brew "git-extras"
 
 # IDE
-cask 'intellij-idea'
-cask 'visual-studio-code'
+cask "intellij-idea"
+cask "visual-studio-code"
+
+# WebDev
+brew "node"
