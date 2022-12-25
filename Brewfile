@@ -35,3 +35,6 @@ cask "visual-studio-code"
 
 # WebDev
 brew "node"
+
+#SQL Stuff
+cask "postgres-unofficial"
